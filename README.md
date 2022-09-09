@@ -7,11 +7,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/joaofaveri/auth-google-firebase">
-    <img src="assets/firebase.png" alt="Autenticação com React, Google e Firebase" width="200">
+    <img src="assets/firebase.png" alt="Autenticação com React, Google e Firebase" width="300">
   </a>
 
-<h3 align="center">Part 3 - Programming a server with NodeJS and Express</h3>
-<h4><i>Full Stack Open 2022 Exercises</i></h4>
+<h3 align="center">Autenticação com React, Google e Firebase</h3>
+<h4><i>Vídeo Aula da Rocketseat</i></h4>
 
   <p align="center">
     Vídeo Aula da Rocketseat com o instrutor Rodrigo Gonçalvez. Trata sobre autenticação social, uma estratégia bastante utilizada para simplificar o acesso a aplicação permitindo que usuário utilize uma conta existente, por exemplo, uma conta Google.
