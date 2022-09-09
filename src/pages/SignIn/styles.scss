@@ -9,7 +9,8 @@
 
   span {
     color: var(--caption);
-
+    width: 600px;
+    text-align: center;
   }
 }
 
@@ -21,4 +22,11 @@
   border-image: linear-gradient(to right, var(--primary), var(--gray)) 1;
   margin-top: 32px;
   font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  svg {
+    margin-right: 7px;
+  }
 }
