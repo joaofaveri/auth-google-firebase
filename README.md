@@ -14,6 +14,6 @@
 <h4><i>Vídeo Aula da Rocketseat</i></h4>
 
   <p align="center">
-    Vídeo Aula da Rocketseat com o instrutor Rodrigo Gonçalvez. Trata sobre autenticação social, uma estratégia bastante utilizada para simplificar o acesso a aplicação permitindo que usuário utilize uma conta existente, por exemplo, uma conta Google.
+    Vídeo Aula da Rocketseat com o instrutor Rodrigo Gonçalvez. Trata sobre autenticação social, uma estratégia bastante utilizada para simplificar o acesso a aplicação permitindo que usuário utilize uma conta existente, por exemplo, uma conta Google. Desta maneira, o usuário não precisa criar uma nova conta e você consegue obter nome do usuário, e-mail e até foto de perfil para utilizar em sua aplicação.
   </p>
 </div>
