@@ -1,4 +1,6 @@
 import './styles.scss'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faGoogle} from '@fortawesome/free-brands-svg-icons'
 
 export function SignIn() {
   return (
@@ -6,12 +8,11 @@ export function SignIn() {
       <h1>Acesse sua conta</h1>
 
       <span>
-        Utilizando autenticação social, por exemplo, autenticação com a Google,<br />
-          você facilita a vida do usuário permitindo utilizar sua aplicação <br /> sem fazer cadastro.
+        Utilizando autenticação social como serviço da Google, facilitando a vida do usuário e permitindo utilizar a aplicação sem fazer cadastro.
       </span>
 
       <button type="button" className="button">
-        Entrar com Google
+        <FontAwesomeIcon icon={faGoogle} />  Entrar com Google
       </button>
     </div>
   )
